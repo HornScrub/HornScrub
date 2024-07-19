@@ -9,7 +9,9 @@
 <div align="center">
  
  🔭 Currently enrolled in a cybersecurity bootcamp!
+ 
  🌱 Learning Wireshark, Python, AWS, SQL, Azure, and Network Security!
+ 
  💬 Trying out Python [here](https://github.com/HornScrub/HS_AdventureGameDeluxe)
 
 </div>
