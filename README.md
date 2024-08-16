@@ -4,11 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ben!;" />
 </h1>
 
-<h3 align="center">Aspiring Cybersecurity Professional</h3>
+<h3 align="center">Aspiring IT Professional</h3>
 
 <div align="center">
- 
- 🔭 Currently enrolled in a cybersecurity bootcamp!
  
  🌱 Learning Wireshark, Python, AWS, SQL, Azure, and Network Security!
  
